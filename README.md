@@ -21,7 +21,7 @@ Sensors:
 In some systems, additional sensors (like depth sensors or motion sensors) may be used to improve accuracy.
 
 ### b) Applications
-![alt text](2-1.jpg)
+![alt text](2.jpg)
 
 Gesture Control:
 Controlling devices (like computers, smart TVs, and VR/AR systems) with hand gestures.
